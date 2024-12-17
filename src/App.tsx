@@ -1,7 +1,7 @@
 import './App.css'
 import Signup from './features/authentication/presentation/pages/SignUp';
 import LoginPage from './features/authentication/presentation/pages/LoginPage';
-import Shop from './features/authentication/presentation/pages/Shop';
+import Shop from './features/Shop/presentation/pages/Shop';
 
 function App() {
 
