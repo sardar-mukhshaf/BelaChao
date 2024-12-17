@@ -10,3 +10,7 @@ html, body{
 #TaskListItems::-webkit-scrollbar {
    display: none;
 }
+
+#cardShow::-webkit-scrollbar{
+   display: none;
+}
