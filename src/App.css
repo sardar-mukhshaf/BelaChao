@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Playwrite+CU+Guides&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -7,6 +9,14 @@ html, body{
    height: 100vh;
 }
 
+#playShop {
+   font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 7vh;
+ 
+ }
+ 
 #TaskListItems::-webkit-scrollbar {
    display: none;
 }

@@ -3,7 +3,7 @@ import React from 'react'
 
 const Sidebar: React.FC = () => {
     return (
-        <div className=' relative h-[86vh] w-[22vw] pt-10 bg-red-400 flex flex-col items-center left-0'>
+        <div className=' relative h-[86vh] w-[22vw] pt-10 flex flex-col items-center left-0 border-l-black border-2'>
             <div className='mt-6 flex gap-3 justify-center'>
                 <h1>Sort by:</h1>
                 <p className='flex gap-1 text-[12px] justify-center items-center'><input type="checkbox" />Product Quality</p>
